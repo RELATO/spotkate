@@ -5,7 +5,7 @@ Projeto criado por https://github.com/candidomorantepelaez
 Node express app based on sqlite (dev) and postgresql (prod). Uses sequelize package to access database
 
 ## Running
-Para executa a aplicação no navegador execute os seguintes passos:
+Para executar a aplicação no navegador execute os seguintes passos:
 
     git clone https://github.com/RELATO/spotkate.git
     cd spotkate
